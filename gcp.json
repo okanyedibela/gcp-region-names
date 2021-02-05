@@ -1,0 +1,20 @@
+{
+  "asia-east1": "ChanghuaCounty,Taiwan",
+  "asia-east2": "HongKong",
+  "asia-northeast1": "Tokyo,Japan",
+  "asia-south1": "Mumbai,India",
+  "asia-southeast1": "JurongWest,Singapore",
+  "australia-southeast1": "Sydney,Australia",
+  "europe-north1": "Hamina,Finland",
+  "europe-west1": "St.Ghislain,Belgium",
+  "europe-west2": "London,England,UK",
+  "europe-west3": "Frankfurt,Germany",
+  "europe-west4": "Eemshaven,Netherlands",
+  "northamerica-northeast1": "Montréal,Québec,Canada",
+  "southamerica-east1": "SãoPaulo,Brazil",
+  "us-central1": "CouncilBluffs,Iowa,USA",
+  "us-east1": "MoncksCorner,SouthCarolina,USA",
+  "us-east4": "Ashburn,NorthernVirginia,USA",
+  "us-west1": "TheDalles,Oregon,USA",
+  "us-west2": "LosAngeles,California,US"
+}
